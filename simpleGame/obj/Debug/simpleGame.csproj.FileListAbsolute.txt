@@ -1,0 +1,9 @@
+D:\code\c\c#\simpleGame\simpleGame\obj\Debug\simpleGame.csproj.AssemblyReference.cache
+D:\code\c\c#\simpleGame\simpleGame\obj\Debug\simpleGame.Properties.Resources.resources
+D:\code\c\c#\simpleGame\simpleGame\obj\Debug\simpleGame.csproj.GenerateResource.cache
+D:\code\c\c#\simpleGame\simpleGame\obj\Debug\simpleGame.csproj.CoreCompileInputs.cache
+D:\code\c\c#\simpleGame\simpleGame\bin\Debug\simpleGame.exe.config
+D:\code\c\c#\simpleGame\simpleGame\bin\Debug\simpleGame.exe
+D:\code\c\c#\simpleGame\simpleGame\bin\Debug\simpleGame.pdb
+D:\code\c\c#\simpleGame\simpleGame\obj\Debug\simpleGame.exe
+D:\code\c\c#\simpleGame\simpleGame\obj\Debug\simpleGame.pdb
